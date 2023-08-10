@@ -28,10 +28,10 @@ global.config = {
 	idleTimeout: 30,
 	idleWarningDuration: 20,
 
-	coinSymbol: 'MSR',
-	openAliasPrefix: "msr",
-	coinName: 'Masari',
-	coinUriPrefix: 'masari:',
+	coinSymbol: 'AVY',
+	openAliasPrefix: "avy",
+	coinName: 'Avalyn',
+	coinUriPrefix: 'avalyn:',
 	avgBlockTime: 60,
 	maxBlockNumber: 500000000,
 
