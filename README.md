@@ -1,4 +1,6 @@
-# Official Masari Web Wallet - Fully client-side 
+# Official Avalyn Web Wallet
+
+`Customizable.` `User Friendly.` `Completely Client=Side` `Additional Privacy and Security.`
 This web wallet is doing everything client-side to give the best privacy to users.
 The server is currently only used to optimize the communication with the daemon and compress the blockchain.  
 
