@@ -2,13 +2,13 @@ let global : any = typeof window !== 'undefined' ? window : self;
 global.config = {
 	apiUrl:typeof window !== 'undefined' && window.location ? window.location.href.substr(0,window.location.href.lastIndexOf('/')+1)+'api/' : 'https://wallet.getmasari.org/api/',
 	trustedDaemonsAddresses:[
-		'https://wallet.getmasari.org:38084/'
+		'https://wallet.avyblocks.com:43734/'
 	],
 	phpRelay:typeof window !== 'undefined' ? true : false,
 	mainnetExplorerUrl: "https://blocks.avychain.com/",
 	mainnetExplorerUrlHash: "https://blocks.avychain.com/transaction.html?hash={ID}",
 	mainnetExplorerUrlBlock: "https://blocks.avychain.com/block.html?height={ID}",
-	testnetExplorerUrl: "http://testnet.msrchain.net/",
+	testnetExplorerUrl: "http://testnet.avychain.com/",
 	testnetExplorerUrlHash: "http://testnet.avychain.com/tx/{ID}",
 	testnetExplorerUrlBlock: "http://testnet.avychain.com/block/{ID}",
 	testnet: false,
