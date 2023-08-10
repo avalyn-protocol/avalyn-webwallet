@@ -5,12 +5,12 @@ global.config = {
 		'https://wallet.getmasari.org:38084/'
 	],
 	phpRelay:typeof window !== 'undefined' ? true : false,
-	mainnetExplorerUrl: "https://explorer.getmasari.org/",
-	mainnetExplorerUrlHash: "https://explorer.getmasari.org/transaction.html?hash={ID}",
-	mainnetExplorerUrlBlock: "https://explorer.getmasari.org/block.html?height={ID}",
+	mainnetExplorerUrl: "https://blocks.avychain.com/",
+	mainnetExplorerUrlHash: "https://blocks.avychain.com/transaction.html?hash={ID}",
+	mainnetExplorerUrlBlock: "https://blocks.avychain.com/block.html?height={ID}",
 	testnetExplorerUrl: "http://testnet.msrchain.net/",
-	testnetExplorerUrlHash: "http://testnet.msrchain.net/tx/{ID}",
-	testnetExplorerUrlBlock: "http://testnet.msrchain.net/block/{ID}",
+	testnetExplorerUrlHash: "http://testnet.avychain.com/tx/{ID}",
+	testnetExplorerUrlBlock: "http://testnet.avychain.com/block/{ID}",
 	testnet: false,
 	coinUnitPlaces: 12,
 	txMinConfirms: 10,         // corresponds to CRYPTONOTE_DEFAULT_TX_SPENDABLE_AGE in Monero
