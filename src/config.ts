@@ -36,8 +36,9 @@ global.config = {
 	maxBlockNumber: 500000000,
 
 	donationAddresses : [
-		'5qfrSvgYutM1aarmQ1px4aDiY9Da7CLKKDo3UkPuUnQ7bT7tr7i4spuLaiZwXG1dFQbkCinRUNeUNLoNh342sVaqTaWqvt8',
-		'5nYWvcvNThsLaMmrsfpRLBRou1RuGtLabUwYH7v6b88bem2J4aUwsoF33FbJuqMDgQjpDRTSpLCZu3dXpqXicE2uSWS4LUP',
-		'9ppu34ocgmeZiv4nS2FyQTFLL5wBFQZkhAfph7wGcnFkc8fkCgTJqxnXuBkaw1v2BrUW7iMwKoQy2HXRXzDkRE76Cz7WXkD'
+		'4gDJtPnbarEgTBjcnv9tnKHJvyJsE5phGUFecBUpXg6xed3s5Fmfc4tcY5vzANHAdxKp9jK91HVGzWGWuBMQDccXPrnDdZq',
+		'4b4dt7sA1HSKnACF6EMSUs92TQ1ofaW2PG5imYKijNmUenBMmZDEWVbXZtNzLosyzKS5JF5xbAFuoAwkXTYn7tWT76XL67n',
+		'4bppZu62Kt6EimFW1nztZb5VE7YQXd8qfjcscRmkepxNV3FUtsReen3CmgJmi5h3dBFHhcSVnXL39gQB3LSDfC2Z7fAdi8m',
+		'4bcPtZ8hmYGN7CpC2y2Zh5eppa37mX7uagFzkVCRDSdxUhHddR2Fjcid1nHLaw6sPzTBV74tsLtgjNEqxL5k3w5b7Nc9NbW'
 	]
 };
